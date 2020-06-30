@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jun 2020 12:09:59 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flavian_imperial_palace</title>
+      <link>http://example.org/garden/flavian_imperial_palace/</link>
+      <pubDate>Tue, 30 Jun 2020 12:09:59 -0400</pubDate>
+      
+      <guid>http://example.org/garden/flavian_imperial_palace/</guid>
+      <description>Flavian Imperial Palace Reconstruction of the Flavian Palace.
+During the period of Domitian (81-96 A.D.) a large artificial platform with massive substructures at the north, east and west was completed at the site of the Vigna Barberini. On this platform stood a large structure with a curvilinear plan at the south, and with colonnaded aisles on the east and west (the north is not excavated) that enclosed a vast garden (Fig.</description>
+    </item>
+    
+    <item>
+      <title>Peristyle_of_the_julio Claudia_domus</title>
+      <link>http://example.org/garden/peristyle_of_the_julio-claudia_domus/</link>
+      <pubDate>Tue, 30 Jun 2020 12:09:41 -0400</pubDate>
+      
+      <guid>http://example.org/garden/peristyle_of_the_julio-claudia_domus/</guid>
+      <description>Peristyle of the Julio-Claudia Domus Peristyle column marble base of the Julio-Claudian domus.
+At the end of the republican era and the beginning of the Empire residential dwellings occupied, at least in part, the northeastern corner of the Palatine. Two distinct excavation areas have revealed the partial remains of one or more domus in the southern part of the terrace, some 6.5 meters below the present ground level. The two excavated sections have not been joined because of a wide road of Severan date that divides them.</description>
+    </item>
+    
+    <item>
+      <title>Vigna_barberini</title>
+      <link>http://example.org/garden/vigna_barberini/</link>
+      <pubDate>Tue, 30 Jun 2020 12:08:11 -0400</pubDate>
+      
+      <guid>http://example.org/garden/vigna_barberini/</guid>
+      <description>Vigna Barberini Aerial photograph of the Vigna Barberini taken early 1999.
+The artificial terrace that now carries the Barberini family name is located on the northeastern corner of the Palatine, beyond the visible remains of the Flavian Imperial palace (Fig. 1). Excavations carried out during the 1930s by A. Bartoli, and in the 1950s by G. F. Carettoni concentrated primarily on the central area of this site. These campaigns revealed the foundations of a large temple, which Bartoli identified, consistent with the earlier ideas of P.</description>
+    </item>
+    
+  </channel>
+</rss>
