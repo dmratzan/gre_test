@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GRE Prep</title>
+    <link>http://example.org/</link>
+    <description>Recent content on GRE Prep</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2020 20:52:22 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Adonea</title>
+      <link>http://example.org/gardens/the-adonea/</link>
+      <pubDate>Wed, 01 Jul 2020 20:52:22 -0400</pubDate>
+      
+      <guid>http://example.org/gardens/the-adonea/</guid>
+      <description>Province: _____ Time Period: _____ Philostrates (Life of Apollonius of Tyana, 7.32) writes of the Adonea in the Flavian palace on the Palatine where Apollonius and Domitian met and where the emperor had made a sacrifice to Minerva in the hall of Adonis that was overflowing with flowers in vases. It was proposed in the nineteenth century this Adonea was in the area of the Vigna Barberini and that a fragment of the Severan Forma Urbis partially depicts it.</description>
+    </item>
+    
+    <item>
+      <title>The Gardens of the Temple of Elagabalus</title>
+      <link>http://example.org/gardens/elagabalus/</link>
+      <pubDate>Wed, 01 Jul 2020 19:36:09 -0400</pubDate>
+      
+      <guid>http://example.org/gardens/elagabalus/</guid>
+      <description>Province: _____ Time Period: _____ The building of a religious complex, identified by scholars as the Heligabalium (later dedicated to Jupiter Ultor) was the final transformation in antiquity of the NW terrace (Fig. 3). An enormous peripteral temple facing west was enclosed by three porticoes on the west (with a monumental entrance), north and south, and by a closed gallery at the east. Construction may have started as early as 190, but the buildings took shape only later in two successive periods, the first ending around 210/220, the second at least by the years 220 to 240.</description>
+    </item>
+    
+    <item>
+      <title>Italia</title>
+      <link>http://example.org/italia/italia/</link>
+      <pubDate>Wed, 01 Jul 2020 18:02:42 -0400</pubDate>
+      
+      <guid>http://example.org/italia/italia/</guid>
+      <description>Gardens  Vigna Barberini The Garden of the Peristyle of the Julio-Claudia Domus A Garden of the Flavian Imperial Garden The Gardens of the Temple of Elagabalus  </description>
+    </item>
+    
+    <item>
+      <title>A Garden of the Flavian Imperial Garden</title>
+      <link>http://example.org/gardens/flavian/</link>
+      <pubDate>Wed, 01 Jul 2020 11:30:16 -0400</pubDate>
+      
+      <guid>http://example.org/gardens/flavian/</guid>
+      <description>Province: _____ Time Period: _____ During the period of Domitian (81-96 A.D.) a large artificial platform with massive substructures at the north, east and west was completed at the site of the Vigna Barberini. On this platform stood a large structure with a curvilinear plan at the south, and with colonnaded aisles on the east and west (the north is not excavated) that enclosed a vast garden (Fig. 1). Over one-third of this garden area has been partly explored, another third was irrevocably destroyed when the later temple of Elagabalus was built, and the final third, at the north, remains to be excavated.</description>
+    </item>
+    
+    <item>
+      <title>The Garden of the Peristyle  of the Julio-Claudia Domus</title>
+      <link>http://example.org/gardens/julio-claudia/</link>
+      <pubDate>Wed, 01 Jul 2020 11:03:52 -0400</pubDate>
+      
+      <guid>http://example.org/gardens/julio-claudia/</guid>
+      <description>Province: _____ Time Period: _____ At the end of the republican era and the beginning of the Empire residential dwellings occupied, at least in part, the northeastern corner of the Palatine. Two distinct excavation areas have revealed the partial remains of one or more domus in the southern part of the terrace, some 6.5 meters below the present ground level. The two excavated sections have not been joined because of a wide road of Severan date that divides them.</description>
+    </item>
+    
+    <item>
+      <title>Vigna Barberi</title>
+      <link>http://example.org/gardens/vigna-barberi/</link>
+      <pubDate>Tue, 30 Jun 2020 13:33:37 -0400</pubDate>
+      
+      <guid>http://example.org/gardens/vigna-barberi/</guid>
+      <description>Province: _____ Time Period: _____ The artificial terrace that now carries the Barberini family name is located on the northeastern corner of the Palatine, beyond the visible remains of the Flavian Imperial palace (Fig. 1). Excavations carried out during the 1930s by A. Bartoli, and in the 1950s by G. F. Carettoni concentrated primarily on the central area of this site. These campaigns revealed the foundations of a large temple, which Bartoli identified, consistent with the earlier ideas of P.</description>
+    </item>
+    
+  </channel>
+</rss>
