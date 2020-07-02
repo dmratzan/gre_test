@@ -1,3 +1,6 @@
 [submodule "christians_project/themes/vanilla-bootstrap-hugo-theme"]
 	path = christians_project/themes/vanilla-bootstrap-hugo-theme
 	url = https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme.git
+[submodule "amartyas_project/themes/ananke"]
+	path = amartyas_project/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
