@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/gardens/</loc>
+    <lastmod>2020-07-01T20:52:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-07-01T20:52:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/gardens/the-adonea/</loc>
+    <lastmod>2020-07-01T20:52:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/gardens/elagabalus/</loc>
+    <lastmod>2020-07-01T19:36:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/italia/</loc>
+    <lastmod>2020-07-01T18:02:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/italia/italia/</loc>
+    <lastmod>2020-07-01T18:02:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/gardens/flavian/</loc>
+    <lastmod>2020-07-01T11:30:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/gardens/julio-claudia/</loc>
+    <lastmod>2020-07-01T11:03:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/gardens/vigna-barberi/</loc>
+    <lastmod>2020-06-30T13:33:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+</urlset>
