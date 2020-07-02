@@ -46,7 +46,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     name = "Gardens"
-    url = "page/gardens.html/"
+    url = "/gardens/"
     weight = 3
 
 [[menu.main]]
@@ -57,5 +57,5 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "Regions"
     name = "Italia"
-    url = "Italia.html/"
+    url = "/italia/italia"
     weight = 1
